@@ -552,11 +552,7 @@
                   viewport: { once: !0 },
                   transition: { delay: 0.2 },
                   children: [
-                    (0, a.jsx)("h2", {
-                      className:
-                        "text-3xl lg:text-6xl font-bold text-yellow-500 mb-8",
-                      children: "WIZARD FROG FEATURED IN",
-                    }),
+                    
                     (0, a.jsxs)("div", {
                       className: "grid grid-cols-1 md:grid-cols-3 gap-6 w-full",
                       children: [
