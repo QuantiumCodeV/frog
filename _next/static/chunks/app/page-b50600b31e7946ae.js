@@ -506,37 +506,7 @@
                   ],
                 }),
               }),
-              (0, a.jsx)(i.E.div, {
-                initial: { opacity: 0, y: 20 },
-                whileInView: { opacity: 1, y: 0 },
-                viewport: { once: !0 },
-                transition: { duration: 0.5 },
-                className:
-                  "w-full flex justify-center bg-[#D0D0D0] backdrop-blur-sm py-8 px-4 lg:px-16",
-                children: (0, a.jsx)(i.E.div, {
-                  className:
-                    "flex flex-col lg:flex-row items-center w-full bg-gradient-to-r from-blue-50 to-yellow-50 rounded-2xl shadow-lg p-8 gap-6",
-                  initial: { scale: 0.95 },
-                  whileInView: { scale: 1 },
-                  viewport: { once: !0 },
-                  transition: { delay: 0.2 },
-                  children: (0, a.jsxs)("div", {
-                    className: "w-full text-center",
-                    children: [
-                      (0, a.jsx)("h2", {
-                        className:
-                          "text-3xl lg:text-6xl font-bold text-yellow-500 mb-4 uppercase",
-                        children: "Wizard Frog",
-                      }),
-                      (0, a.jsx)("p", {
-                        className: "text-xl lg:text-2xl text-gray-700",
-                        children:
-                          "Join Wizard Frog on his magical adventures as he brews tea, takes walks, and contemplates the mysteries of bread.",
-                      }),
-                    ],
-                  }),
-                }),
-              }),
+             
               (0, a.jsx)(i.E.div, {
                 initial: { opacity: 0, y: 20 },
                 whileInView: { opacity: 1, y: 0 },
