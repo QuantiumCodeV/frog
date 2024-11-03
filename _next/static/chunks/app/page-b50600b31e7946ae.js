@@ -507,70 +507,7 @@
                 }),
               }),
              
-              (0, a.jsx)(i.E.div, {
-                initial: { opacity: 0, y: 20 },
-                whileInView: { opacity: 1, y: 0 },
-                viewport: { once: !0 },
-                transition: { duration: 0.5 },
-                className:
-                  "w-full flex justify-center bg-[#D0D0D0] backdrop-blur-sm py-8 px-4 lg:px-16",
-                children: (0, a.jsxs)(i.E.div, {
-                  className:
-                    "flex flex-col items-center w-full bg-gradient-to-r from-blue-50 to-yellow-50 rounded-2xl shadow-lg p-8",
-                  initial: { scale: 0.95 },
-                  whileInView: { scale: 1 },
-                  viewport: { once: !0 },
-                  transition: { delay: 0.2 },
-                  children: [
-                    
-                    (0, a.jsxs)("div", {
-                      className: "grid grid-cols-1 md:grid-cols-3 gap-6 w-full",
-                      children: [
-                        (0, a.jsx)(i.E.a, {
-                          href: "https://www.vice.com/en/article/luce-vatican-anime-mascot-jubilee-year-catholic-church/",
-                          target: "_blank",
-                          rel: "noopener noreferrer",
-                          className:
-                            "flex items-center justify-center p-6 bg-white/80 rounded-xl hover:bg-white/90 transition-all hover:shadow-md",
-                          whileHover: { scale: 1.05 },
-                          transition: { type: "spring", stiffness: 300 },
-                          children: (0, a.jsx)("span", {
-                            className: "text-2xl font-bold text-gray-800",
-                            children: "VICE",
-                          }),
-                        }),
-                        (0, a.jsx)(i.E.a, {
-                          href: "https://news.sky.com/story/vatican-unveils-new-cartoon-mascot-for-catholic-church-13244550",
-                          target: "_blank",
-                          rel: "noopener noreferrer",
-                          className:
-                            "flex items-center justify-center p-6 bg-white/80 rounded-xl hover:bg-white/90 transition-all hover:shadow-md",
-                          whileHover: { scale: 1.05 },
-                          transition: { type: "spring", stiffness: 300 },
-                          children: (0, a.jsx)("span", {
-                            className: "text-2xl font-bold text-gray-800",
-                            children: "Sky News",
-                          }),
-                        }),
-                        (0, a.jsx)(i.E.a, {
-                          href: "https://www.forbes.com/sites/danidiplacido/2024/10/29/who-is-luce-the-anime-mascot-of-the-catholic-church-explained/",
-                          target: "_blank",
-                          rel: "noopener noreferrer",
-                          className:
-                            "flex items-center justify-center p-6 bg-white/80 rounded-xl hover:bg-white/90 transition-all hover:shadow-md",
-                          whileHover: { scale: 1.05 },
-                          transition: { type: "spring", stiffness: 300 },
-                          children: (0, a.jsx)("span", {
-                            className: "text-2xl font-bold text-gray-800",
-                            children: "Forbes",
-                          }),
-                        }),
-                      ],
-                    }),
-                  ],
-                }),
-              }),
-              
+            
               (0, a.jsx)(u, {}),
               (0, a.jsx)(i.E.div, {
                 initial: { opacity: 0 },
