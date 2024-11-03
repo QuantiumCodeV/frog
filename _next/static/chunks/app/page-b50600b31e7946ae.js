@@ -27,12 +27,35 @@
       function f() {
         let [e, t] = (0, p.useState)(!1),
           l = [
-            
             {
-              href: "https://x.com/elmrealm",
+              href: "https://t.me/ELMFROGCOIN",
+              icon: (0, a.jsx)(c.Z, { className: "w-4 h-4" }),
+              label: "Telegram",
+              className: "bg-blue-100 text-blue-600 hover:bg-blue-200",
+              target: "_blank",
+              rel: "noopener noreferrer",
+            },
+            {
+              href: "https://x.com/ELMFROGCOIN",
               icon: (0, a.jsx)(m.LCd, { className: "w-4 h-4" }),
               label: "Twitter / X",
               className: "bg-black text-white hover:bg-gray-800",
+              target: "_blank",
+              rel: "noopener noreferrer",
+            },
+            {
+              href: "https://dexscreener.com/ethereum/0x8cd561fa85e38055ff2c2f46f9c4e599536e0ffe",
+              icon: (0, a.jsx)(o.Z, { className: "w-4 h-4" }),
+              label: "Dexscreener",
+              className: "bg-green-100 text-green-600 hover:bg-green-200",
+              target: "_blank",
+              rel: "noopener noreferrer",
+            },
+            {
+              href: "https://www.dextools.io/app/en/token/luce?t=1730358632876",
+              icon: (0, a.jsx)(o.Z, { className: "w-4 h-4" }),
+              label: "Uniswap",
+              className: "bg-green-100 text-green-600 hover:bg-green-200",
               target: "_blank",
               rel: "noopener noreferrer",
             },
@@ -581,7 +604,22 @@
                   ],
                 }),
               }),
-              
+              (0, a.jsx)(i.E.div, {
+                initial: { opacity: 0 },
+                whileInView: { opacity: 1 },
+                viewport: { once: !0 },
+                className: "w-full flex justify-center py-20 bg-[#D0D0D0]",
+                children: (0, a.jsx)("div", {
+                  className: "max-w-xl w-full",
+                  children: (0, a.jsx)("blockquote", {
+                    className: "twitter-tweet",
+                    "data-dnt": "true",
+                    children: (0, a.jsx)("a", {
+                      href: "https://twitter.com/CatholicTV/status/1850904910180532432",
+                    }),
+                  }),
+                }),
+              }),
               (0, a.jsx)(u, {}),
               (0, a.jsx)(i.E.div, {
                 initial: { opacity: 0 },
@@ -590,7 +628,7 @@
                 className: "h-screen relative w-full",
                 children: (0, a.jsx)(s.default, {
                   src: "/footer.jpg",
-                  alt: "Luce Banner",
+                  alt: "Frog Banner",
                   fill: !0,
                   style: { objectFit: "cover" },
                   priority: !0,
