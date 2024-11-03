@@ -461,7 +461,7 @@
                               children: (0, a.jsx)("span", {
                                 className: "text-sm lg:text-2xl text-gray-500",
                                 children:
-                                  "0x25c74EF928e60FA4B35cc431BBD87969C6cd2Bb0",
+                                  "0x1200da7D19570E7474AaB533abf0Ae67f89b46ef",
                               }),
                             }),
                           ],
@@ -570,22 +570,7 @@
                   ],
                 }),
               }),
-              (0, a.jsx)(i.E.div, {
-                initial: { opacity: 0 },
-                whileInView: { opacity: 1 },
-                viewport: { once: !0 },
-                className: "w-full flex justify-center py-20 bg-[#D0D0D0]",
-                children: (0, a.jsx)("div", {
-                  className: "max-w-xl w-full",
-                  children: (0, a.jsx)("blockquote", {
-                    className: "twitter-tweet",
-                    "data-dnt": "true",
-                    children: (0, a.jsx)("a", {
-                      href: "https://twitter.com/CatholicTV/status/1850904910180532432",
-                    }),
-                  }),
-                }),
-              }),
+              
               (0, a.jsx)(u, {}),
               (0, a.jsx)(i.E.div, {
                 initial: { opacity: 0 },
