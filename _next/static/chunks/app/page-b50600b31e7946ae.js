@@ -44,7 +44,7 @@
               rel: "noopener noreferrer",
             },
             {
-              href: "https://dexscreener.com/ethereum/0x8cd561fa85e38055ff2c2f46f9c4e599536e0ffe",
+              href: "https://dexscreener.com/ethereum/0x9b0a4db8f2628a81116cb3c92c9a14d221fc8dc3",
               icon: (0, a.jsx)(o.Z, { className: "w-4 h-4" }),
               label: "Dexscreener",
               className: "bg-green-100 text-green-600 hover:bg-green-200",
