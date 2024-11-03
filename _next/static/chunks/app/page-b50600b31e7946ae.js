@@ -52,7 +52,7 @@
               rel: "noopener noreferrer",
             },
             {
-              href: "https://www.dextools.io/app/en/token/luce?t=1730358632876",
+              href: "https://app.uniswap.org/explore/tokens/ethereum/0x1200da7D19570E7474AaB533abf0Ae67f89b46ef",
               icon: (0, a.jsx)(o.Z, { className: "w-4 h-4" }),
               label: "Uniswap",
               className: "bg-green-100 text-green-600 hover:bg-green-200",
